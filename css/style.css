@@ -701,7 +701,7 @@ nav {
   .cv-btn {
     width: 50%;
     float: right;
-    margin: 60px -60px 0px 0px;
+    margin: 100px -60px 0px 0px;
   }
 
   .social {
@@ -834,7 +834,7 @@ nav {
   .cv-btn {
     width: 70%;
     float: right;
-    margin: 10px -50px -100px 0px;
+    margin: 50px -50px -50px 0px;
   }
 
   .social {
@@ -871,7 +871,7 @@ nav {
 
   .cv-btn {
     width: 70%;
-    margin: 10px -50px -100px 0px;
+    margin: 10px -50px 0px 0px;
   }
 
   .social {
