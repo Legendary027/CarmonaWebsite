@@ -110,11 +110,11 @@ nav {
 
 .p-container {
   width: 90%;
-  height: 60vh;
+  height: 200vh;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   grid-template-rows: auto auto;
-  grid-gap: 10px;
+  grid-gap: 20px;
 }
 
 .overlay-text {
@@ -239,7 +239,7 @@ nav {
   .p-container {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto;
-    grid-gap: 10px;
+    grid-gap: 20px;
     height: auto;
   }
 
@@ -254,5 +254,5 @@ nav {
 }
 
 @media(max-width:400px) {
-  
+
 }
