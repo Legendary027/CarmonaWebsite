@@ -583,6 +583,7 @@ nav {
   box-shadow: 2px 5px 8px #888888;
 }
 
+
 .alert button {
   position: absolute;
   background-color: #2196F3;
@@ -861,6 +862,16 @@ nav {
   #about {
     margin-top: 20%;
   }
+
+  .alert {
+    height: 150px;
+    width: 400px;
+    padding: 10px;
+    top: 25%;
+    bottom: 25%;
+    left: 10%;
+    right: 10%;
+  }
 }
 
 @media(max-width:400px) {
@@ -883,5 +894,23 @@ nav {
 
   #about {
     margin-top: 25%;
+  }
+
+  .alert {
+    height: 150px;
+    width: 300px;
+    padding: 5px;
+    top: 25%;
+    bottom: 25%;
+    left: 0%;
+    right: 0%;
+  }
+
+  .alert button {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    font-weight: bold;
+    width: 80px;
   }
 }
